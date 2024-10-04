@@ -1,0 +1,95 @@
+.img-user{
+    width: 30%;
+}
+.radio_sec{
+    display: flex;
+    margin-left: 13%;
+}
+.mr{
+    margin-left: -6px;
+}
+.mrs{
+    margin-left: -6px;
+}
+.ms{
+    margin-left: -6px;
+}
+.form{
+    margin-left: 20px;
+}
+.first_name{
+    display: flex;
+    gap: 80px;
+    margin-top: 2px;
+}
+.last_name{
+    display: flex;
+    gap: 80px;
+    margin-top: 2px;
+}
+.mail-address-1{
+    display: flex;
+    gap: 52px;
+    margin-top: 2px;
+}
+.mail-address-2{
+    display: flex;
+    gap: 52px;
+    margin-top: 2px;
+}
+.city-sec{
+    display: flex;
+    gap: 122px;
+    margin-top: 2px;
+}
+.state-sec{
+    display: flex;
+    gap: 118px;
+    margin-top: 2px;
+}
+.zip-sec{
+    display: flex;
+    gap: 127px;
+    margin-top: 2px;
+}
+.upload-photo-sec{
+    display: flex;
+    gap: 60px;
+    margin-top: 2px;
+}
+.email-sec{
+    display: flex;
+    gap: 104px;
+    margin-top: 2px;
+}
+.mobile-sec{
+    display: flex;
+    gap: 104px;
+    margin-top: 2px;
+}
+.language-sec{
+    display: flex;
+    gap: 80px;
+    margin-top: 2px;
+}
+.label-title{
+    margin-right: -49px;
+}
+.additional-info-sec{
+    display: flex;
+}
+.additional-info{
+    margin-left: 3px;
+}
+.btn-sec{
+    display: flex;
+    /* gap: 50px; */
+    margin-left: 151px;
+    margin-top: 3px;
+}
+.btn-reset{
+    margin-left: 5px;
+}
+input[type="text"] {
+    width: 134px;
+}
